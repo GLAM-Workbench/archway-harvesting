@@ -2,7 +2,7 @@
 
 Some experimental code for getting data out of Archives New Zealand's Archway database.
 
-To run your own harvest just click on the MyBinder button to launch the notebook in a live computing environment.
+To run your own harvest just click on the button below to launch the notebook in a live computing environment.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/wragge/archway-harvesting/master?filepath=archway-records-harvest.ipynb)
 
