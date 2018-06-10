@@ -8,4 +8,6 @@ To run your own harvest just click on the MyBinder button to launch the notebook
 
 If you just want to browse the code, [have a look at the notebook](https://nbviewer.jupyter.org/github/wragge/archway-harvesting/blob/master/archway-records-harvest.ipynb) here.
 
+----
+
 If you think this is useful or interesting, you can [support me on Patreon](https://www.patreon.com/timsherratt).
