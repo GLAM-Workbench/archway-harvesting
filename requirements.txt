@@ -1,4 +1,6 @@
-requests
-beautifulsoup4
-lxml
-pandas
+requests==2.21.0
+beautifulsoup4==4.7.0
+lxml==4.2.6
+pandas==0.23.4
+tinydb==3.12.2
+tqdm==4.28.1
