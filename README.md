@@ -10,4 +10,5 @@ If you just want to browse the code, [have a look at the notebook](https://nbvie
 
 ----
 
-If you think this is useful or interesting, you can [support me on Patreon](https://www.patreon.com/timsherratt).
+See the [GLAM Workbench documentation](https://glam-workbench.github.io/) for more details.  
+If you think this project is worthwhile, you might like [to support me on Patreon](https://www.patreon.com/timsherratt).
