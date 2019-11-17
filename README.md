@@ -1,3 +1,7 @@
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3544700.svg)](https://doi.org/10.5281/zenodo.3544700)
+
+
 # Archway harvesting
 
 Some experimental code for getting data out of Archives New Zealand's Archway database.
